@@ -29,7 +29,6 @@ cp -a * %{buildroot}%{_texmfdistdir}
 %files
 %{_texmfdistdir}/tex/latex/ditaa
 %doc %{_texmfdistdir}/doc/latex/ditaa
-%doc %{_texmfdistdir}/doc/latex/ditaa/resources/ditaa
 
 %post -p %{_sbindir}/texlive.post
 
