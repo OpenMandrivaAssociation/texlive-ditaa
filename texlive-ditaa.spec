@@ -3,7 +3,7 @@ Version:	48932
 Release:	2
 Summary:	Use ditaa diagrams within LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ditaa
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ditaa
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ditaa.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ditaa.doc.r%{version}.tar.xz
